@@ -1,9 +1,10 @@
-module github.com/danielvladco/go-proto-gql
+module github.com/dantedenis/go-proto-gql
 
 go 1.17
 
 require (
 	github.com/99designs/gqlgen v0.17.22
+	github.com/danielvladco/go-proto-gql v0.10.0
 	github.com/golang/protobuf v1.5.2
 	github.com/jhump/protoreflect v1.7.1
 	github.com/nautilus/gateway v0.3.3
@@ -25,7 +26,6 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.7.0 // indirect
 	github.com/urfave/cli/v2 v2.8.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
