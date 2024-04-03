@@ -7,7 +7,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/jhump/protoreflect v1.7.1
 	github.com/nautilus/gateway v0.3.3
-	github.com/nautilus/graphql v0.0.20
+	github.com/nautilus/graphql v0.0.22
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/rs/cors v1.7.0
 	github.com/vektah/gqlparser/v2 v2.5.1
@@ -37,5 +37,3 @@ require (
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/nautilus/graphql v0.0.20 => github.com/nautilus/graphql v0.0.22

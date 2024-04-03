@@ -48,6 +48,7 @@ github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWm
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/graph-gophers/dataloader v5.0.0+incompatible h1:R+yjsbrNq1Mo3aPG+Z/EKYrXrXXUNJHOgbRt+U6jOug=
 github.com/graph-gophers/dataloader v5.0.0+incompatible/go.mod h1:jk4jk0c5ZISbKaMe8WsVopGB5/15GvGHMdMdPtwlRp4=
+github.com/graphql-go/graphql v0.7.10-0.20210411022516-8a92e977c10b/go.mod h1:k6yrAYQaSP59DC5UVxbgxESlmVyojThKdORUqGDGmrI=
 github.com/hashicorp/golang-lru v0.5.4 h1:YDjusn29QI/Das2iO9M0BHnIbxPeyuCHsjMW+lJfyTc=
 github.com/hashicorp/golang-lru v0.5.4/go.mod h1:iADmTwqILo4mZ8BN3D2Q6+9jd8WM5uGBxy+E8yxSoD4=
 github.com/jhump/protoreflect v1.7.1 h1:dU3rf2wv1WHvC7mSGYfOaciUAFf5idu6FdC3uZIOlP0=
@@ -72,6 +73,7 @@ github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyua
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/nautilus/gateway v0.3.3 h1:AMmdy9a/GNzgBmuPuAaoVfjAEvb/1zCX+2YjqT0Hl5Y=
 github.com/nautilus/gateway v0.3.3/go.mod h1:ScTIYRI7EsVh4Zow+HCChmox7h1tZPscmCQQ8pziSq8=
+github.com/nautilus/graphql v0.0.20/go.mod h1:UYcs/gBtuFrZyX591SuYboby4xFNG9ZkaTYk7BBSRak=
 github.com/nautilus/graphql v0.0.22 h1:mqZ57qW91yvu4/nESi4VSuAGCpR6AIskPxUN/6Bq6KU=
 github.com/nautilus/graphql v0.0.22/go.mod h1:eoqPxo/+IdRSfLQKZ2V0al2vYeoMJKO72XpTsUYOmFI=
 github.com/nishanths/predeclared v0.0.0-20200524104333-86fad755b4d3/go.mod h1:nt3d53pc1VYcphSCIaYAJtnPYnr3Zyn8fMq2wvPGPso=
