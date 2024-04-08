@@ -5,10 +5,10 @@ go 1.17
 require (
 	github.com/99designs/gqlgen v0.17.22
 	github.com/danielvladco/go-proto-gql v0.9.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.4
 	github.com/vektah/gqlparser/v2 v2.5.1
 	google.golang.org/grpc v1.51.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
