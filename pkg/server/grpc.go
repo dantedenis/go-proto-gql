@@ -17,7 +17,7 @@ import (
 
 type Grpc struct {
 	Services    []*Service
-	ImportPaths []string
+	ImportPaths []string `yaml:"import_paths"`
 }
 
 type Caller interface {
